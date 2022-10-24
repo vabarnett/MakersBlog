@@ -11,7 +11,7 @@ I did try diagramming the system but found that more confusing than elucidating.
 
     *****************************************************
     
-    Well at the end of the week I hadn't finished the whole of the database module, but I have done all the challenges judged to be essential before moving on. 
+Well at the end of the week I hadn't finished the whole of the database module, but I have done all the challenges judged to be essential before moving on. 
     
-    I finally reached a point of understanding with the creation of the ruby/database integration. Repeatedly creating ruby/postgres structures and navigating them in the challenges was really tough, but it helped me to reach an understanding built on exploration and creation. I'm sure I have plenty to learn when it comes to implementing them in real life but I'm really pleased to have reached a breakthrough moment!
+I finally reached a point of understanding with the creation of the ruby/database integration. Repeatedly creating ruby/postgres structures and navigating them in the challenges was really tough, but it helped me to reach an understanding built on exploration and creation. I'm sure I have plenty to learn when it comes to implementing them in real life but I'm really pleased to have reached a breakthrough moment!
     
